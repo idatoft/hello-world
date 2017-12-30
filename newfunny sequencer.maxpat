@@ -6,6 +6,7 @@
 			"minor" : 1,
 			"revision" : 10,
 			"architecture" : "x86"
+			change:
 		}
 ,
 		"rect" : [ 50.0, 95.0, 831.0, 480.0 ],
